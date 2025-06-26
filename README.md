@@ -15,7 +15,6 @@ Resources and documentation for the MPD Gambia
 - `docs/`: Background documents, mission statements, and partner information
 - `trainings/`: Materials from past and ongoing training activities
 - `events/`: Documentation of workshops, forums, and public events in The Gambia
-- `guidelines/`: Guidance on data protection, standardization, and technical pipelines
 
 ## Project History
 
